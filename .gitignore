@@ -1,0 +1,10 @@
+.classpath
+.project
+.settings
+.groovy
+dependency-reduced-pom.xml
+target/
+.README.md.html
+logs
+dump.rdb
+/bin/
