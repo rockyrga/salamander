@@ -17,10 +17,10 @@ groovy out.groovy {policy reference number}
 5. Create new Pull Request
 
 ## Todo
-Policyholder
-Customer
-Customer's contact
-Agent's contact
-Employee
-Account
+Policyholder,
+Customer,
+Customer's contact,
+Agent's contact,
+Employee,
+Account,
 etc
