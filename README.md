@@ -1,7 +1,7 @@
 Salamander
 ==========
 
-This is a tool to export MySQL data to Json format data (print on console).
+This is a tool to export MySQL data to Json format data (on console).
 
 ## Usage
 ```
