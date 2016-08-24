@@ -1,7 +1,7 @@
 Salamander
 ==========
 
-This is a tool to export MySQL data to Json format data (print on console).
+This is a tool to export MySQL data to Json format data (on console).
 
 ## Usage
 ```
@@ -15,3 +15,12 @@ groovy out.groovy {policy reference number}
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
 5. Create new Pull Request
+
+## Todo
+Policyholder
+Customer
+Customer's contact
+Agent's contact
+Employee
+Account
+etc
