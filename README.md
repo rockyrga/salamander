@@ -27,5 +27,5 @@ Employee,
 Account,
 etc
 
-## Issue
+## Issues
 Please report to https://github.com/rockyrga/salamander/issues
