@@ -17,6 +17,8 @@ groovy out.groovy {policy reference number}
 5. Create new Pull Request
 
 ## Todo
+Wall type,
+Roof construction,
 Policyholder,
 Customer,
 Customer's contact,
@@ -24,3 +26,6 @@ Agent's contact,
 Employee,
 Account,
 etc
+
+## Issue
+Please report to https://github.com/rockyrga/salamander/issues
